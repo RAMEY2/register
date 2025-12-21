@@ -9,7 +9,7 @@
         {
             "type": "AAAA",
             "name": "ssh.pcb",
-            "value": ["2001:f40:99c:350e:1a0a:1471:2fa1:4f45"]
+            "value": "2001:f40:99c:350e:1a0a:1471:2fa1:4f45"
         }
     ]
 }
